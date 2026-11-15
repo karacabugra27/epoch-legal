@@ -1,0 +1,9 @@
+# GitHub Pages (Jekyll) site for Epoch's legal pages. Root = Turkish, /en/ = English.
+# Fill both values before publishing; every page reads them.
+title: Epoch
+description: Epoch gizlilik politikası ve kullanım koşulları
+lang: tr
+contact_email: "bgrkrc.dev@gmail.com"
+server_location: "Germany - Frankfurt"
+exclude:
+  - PUBLISHING.md
